@@ -4,7 +4,7 @@ Exploratory survival analysis on the IBM Telco Churn dataset, framed as a busine
 
 ## Results
 
-Under a moderate treatment effect (γ = 0.75), RSF-estimated individual survival curves (mean E[T] = 53.7 months) identify 4,803 customers as positive-EV intervention targets, representing £343k/month monthly recurring revenue (MRR); the remaining 1,723 customers (£79k/month) do not clear the cost threshold under any gamma assumption and should not be targeted — a distinction a churn probability score alone cannot make.
+Under a moderate treatment effect (γ = 0.75), RSF-estimated individual survival curves (mean E[T] = 53.7 months) identify 4,803 customers as positive-EV intervention targets, representing £343k/month monthly recurring revenue (MRR); the remaining 1,723 customers (£79k/month) do not clear the cost threshold under any gamma assumption and should not be targeted.
 
 
 ## Pipeline
